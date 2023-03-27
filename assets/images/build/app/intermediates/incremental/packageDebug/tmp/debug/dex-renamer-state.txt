@@ -1,0 +1,4 @@
+#Mon Feb 27 01:01:15 EAT 2023
+base.0=F\:\\Android App\\grocery_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
